@@ -10,7 +10,7 @@ body {
   align-items: center;
   padding-top: 40px;
   padding-bottom: 40px;
-  background-color: #a59e9e;
+  background: linear-gradient(white 10%,grey 40%, rgb(163, 73, 73) 70%,grey 90%, white);
   font-family: 'Abel';font-size: 22px;
 }
 
